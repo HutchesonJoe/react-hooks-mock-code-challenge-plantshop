@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Jadyn",
+      "image": "./images/jade.jpg",
+      "price": "45.00",
+      "id": 8
+    },
+    {
+      "name": "Bob",
+      "image": "https://unsplash.com/photos/IZz3sboy1g8",
+      "price": "0.03",
+      "id": 9
+    },
+    {
+      "name": "Aloe",
+      "image": "",
+      "price": "",
+      "id": 10
     }
   ]
 }
